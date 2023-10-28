@@ -2,7 +2,9 @@
   <img src="about.gif" alt="about me">
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jonathanbonette&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&hide_rank=true" />
+<!--- <img align="right" src="https://github-readme-stats.vercel.app/api?username=jonathanbonette&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&hide_rank=true" /> --->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbonette&layout=compact" />
 
 ### Hi there，I'm Jonathan Bonette 🙋‍♂️
 
