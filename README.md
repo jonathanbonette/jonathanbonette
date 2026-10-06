@@ -8,9 +8,9 @@
 
 ### Hi there，I'm Jonathan Bonette 🙋‍♂️
 
-- 📈 Graduating in Electronic Engineering, currently working in the Financial Engineering department at C6Bank.
-- 📚 Artificial intelligence is something I'm interested in.
-- 🧠 Backend is an area I'm focusing on right now.
+- 🧠 Electronics Engineer working as a Backend Developer in the Financial Engineering department at C6 Bank.
+- 💻 Focused on backend development with Kotlin, Java, Spring, distributed systems, and financial applications.
+- 🤖 Currently expanding my knowledge in Artificial Intelligence, LLMs, and AI Agents.
   
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-chrysostomo-cabral-bonette-55562015b/">
